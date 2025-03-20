@@ -1,0 +1,306 @@
+body{
+    border:1px solid white;
+    width: 1250px;
+    height: 1470px;
+    margin: auto;
+    margin-top: 5px;
+}
+
+header{
+    border: 1px solid rgb(119, 119, 119);
+    background-color: #b5b5b5;
+    width: 1250px;
+    height: 230px;
+    align-items: center;
+    margin: auto;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.barra{
+    border: 2px solid #032815;
+    background-color: #032815;
+    width: 1247px;
+    height: 70px;
+    margin: auto;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    text-align: center;
+    padding-top:20px ;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    color: #f0f0f0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:larger;
+}
+.linea{
+    color: #f0f0f0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    margin-top: -5px;
+}
+
+aside{
+    border: 2px solid rgb(229, 226, 229);
+    background-color: #aaa;
+    width: 1247px;
+    height: 660px;
+    margin-top:10px;
+    border-radius: 25px;
+}
+.article1{
+    border: 1px solid rgb(239, 245, 149);
+    background-color:rgb(243, 247, 181) ;
+    width: 1230px;
+    height: 300px;
+    margin-top: 15px;
+    margin-left: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+.article2{
+    border: 1px solid rgb(239, 245, 149);
+    background-color:rgb(243, 247, 181) ;
+    width: 1230px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 5px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.perros{
+    border: 5px solid black;
+    width: 300px;
+    height: 280px;
+    margin-right: 90px;
+   position: absolute;
+   top: 365px;
+   left: 800px;
+   border-radius: 30px;
+}
+.perro1{
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 25px ;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px ;
+    border-bottom-right-radius: 25px; 
+    margin-top: -23px;
+}
+.perro2{
+    height: 100%;
+    width: 100%;
+    border-top-left-radius: 25px ;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px ;
+    border-bottom-right-radius: 25px; 
+    
+}
+.gatos{
+    border: 5px solid black;
+    width: 300px;
+    height: 280px;
+    margin-right: 90px;
+   position: absolute;
+   top: 688px;
+   left: 800px;
+   border-radius: 30px;
+}
+main{
+    border:2px solid rgb(246, 246, 165);
+    width: 1247px;
+    height: 500px;
+    margin-top:5px;
+    border-radius: 25px;
+    background-color: rgb(255, 255, 227);;
+    
+    
+}
+.formulario{
+    border: 2px solid rgb(2, 23, 5) ;
+    margin-top: 5px;
+    margin-left: 7px;
+    width: 609px;
+    height: 485px;
+    float: left;
+    border-radius: 20px;
+    background-color: rgb(5, 41, 11);
+}
+.busqueda{
+    border: 1px solid black;
+    margin-top: 6px;
+    margin-right: 7px;
+    width: 609px;
+    height: 485px;
+    float: right;
+    border-radius: 20px;
+    background-color: rgb(5, 41, 11);
+}
+footer{
+    border: 2px solid #032815;
+    width: 1247px;
+    height: 130px;
+    margin: auto;
+    margin-top: 20px;
+    background-color:#032815;
+    text-align: center;
+    color: #e0e0e0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+main>.formulario>.boxtext{
+    position: absolute;
+    left: 250px;
+    display: block;
+    margin-top: 40px;
+    width: 100px;
+    height: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+input{
+    border:1px solid wheat;
+    border-radius: 5px;
+    padding: 7px;
+    background-color: #f0f0f0;
+    color: #666;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    transition: all 0.3s ease-in-out;
+}
+input:focus{
+    border-color: #aaa;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+input:hover{
+    background-color: #e0e0e0;
+}
+
+main>.formulario>.cabeza{
+    position: absolute;
+    height: 40px;
+    width: 611px;
+    background-color: #031707;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.texto{
+    margin-top: 5px;
+    color: #ffff;
+    text-align: center;
+    font-family:sans-serif;
+}
+
+main>.formulario>.boxtext>.textosection{
+    position: absolute;
+    display: block;
+    text-align: center;
+    font-size:larger;
+    top: -25px;
+    right: 120px;   
+    width: 70px;
+    height: 300px;
+    box-sizing: border-box;
+
+}
+h5{
+    margin-bottom:35px;
+    color: #fefefe;
+}
+.boton{
+    border-radius: 50px;
+    width: 160px;
+    height: 30px;
+    box-sizing: border-box;
+    border: 1px solid white;
+}
+.boton{
+    border:1px solid rgb(1, 42, 22);
+    border-radius: 50px;
+    background-color: #024416;
+    color: #fbf8f8;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    transition: all 0.01s ease-in-out;
+}
+.boton:focus{
+    border-color: #027f0a;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.boton:hover{
+    background-color: #04b804;
+}
+
+.busqueda>.nav{
+    border: 1px solid rgb(255, 255, 255);
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 500px;
+    height: 400px;
+    border-radius: 30px;
+    background-color: #fbf8f8;
+    text-align: center;
+}
+.busquedabarra{
+    margin-bottom: 50px;
+    width: 400px;
+    height: 50px; 
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buscar{
+    width: 150px;
+    height: 30px;
+    border-radius: 50px;
+    border:1px solid rgb(201, 230, 216); 
+    background-color: #ffffff;
+    color: #000000;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    transition: all 0.01s ease-in-out;
+}
+
+.buscar:focus{
+    border-color: #9eeba3;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+.buscar:hover{
+    background-color: #9afe9a;
+}
+
+.TEXTO2{
+    color: #fbf8f8;
+    font-family: monospace;
+    font-size:x-large;
+}
+.perronav{
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+    object-fit: cover;
+    border-radius: 26px;
+    filter: opacity(70%);
+}
+
+.barrac{
+    position: absolute;
+    top:1100px;
+    margin-left: 50px;
+}
+
+header>.perrosygatos{
+  height: 230px;
+  width: 1250px;
+  border-top-left-radius: 25px ;
+  border-top-right-radius: 25px;
+    
+}

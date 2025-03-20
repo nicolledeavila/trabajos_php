@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>citas beterinario web</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/inicio.css">
+</head>
+<body>
+    <header>
+        <img class="perrosygatos" src="./imagenes/perrosygatos.png">
+    </header>
+    <nav class="barra">
+        <a href="...">.Servicios.</a> <h1 class="linea">|</h1> <a href="...">.Productos.</a> <h1 class="linea">|</h1>  <a href="..">.Guardado.</a> <h1 class="linea">|</h1> <a href="..">.Promociones.</a>
+    </nav>
+    <aside>
+        <article class="article1">
+            <h2 style="margin-left: 40px;">Cuidados y educacion para su perro</h2>
+            <p style="margin-left: 40px;">
+                Equam, ium fugiandebis sit, qui occab <br>
+                ipienihit as moluptatur rem et liquis et<br>
+                ulparci psanis mo voluptia volupta pa et, offictur?
+                <br>
+                <br>
+                Dusdae volore, que peribus sapist, sande volenis sunt.
+                <br>
+                <br>
+                <br>
+                <samp style="color: green;">Ver mas...</samp> 
+            </p>
+            <div class="perros">
+                <img src="./imagenes/" alt="">
+                <img  class="perro1" src="./imagenes/perro1.avif">
+            </div>
+            
+        </article>
+        <article class="article2">
+            <h2 style="margin-left: 40px;">Salir de viaje con su mascota</h2>
+            <p style="margin-left: 40px;">
+                Equam, ium fugiandebis sit, qui occab <br>
+                ipienihit as moluptatur rem et liquis et<br>
+                ulparci psanis mo voluptia volupta pa et, offictur?
+                <br>
+                <br>
+                Dusdae volore, que peribus sapist, sande volenis sunt.
+                <br>
+                <br>
+                <br>
+                <samp style="color: green;">Ver mas...</samp>
+            </p>
+            <div class="gatos">
+                <img class="perro2" src="./imagenes/perro2.jpg" alt="">
+            </div>
+        </article>
+
+    </aside>
+    <main>
+        <article class="formulario">
+            <div class="cabeza">
+                <p class="texto">AGENDAR CITA</p>
+            </div>
+            <section class="boxtext">
+                <div class="textosection">
+                    <h5 style="margin-top: 40px;">id:</h5>
+                    <h5>Mascota:</h5>
+                    <h5>Edad:</h5>
+                    <h5>Raza:</h5>
+                    <h5>fecha:</h5>
+                    <h5>Hora:</h5>
+                    <h5>Amo:</h5>
+                  </div>
+                <form action="formulario.php" method="post">
+                    <input type="number" name="code" placeholder="ingrese id">   
+                    <input style="margin-top: 20px;" type="text" name="mascota" placeholder="ingrese nombre..">
+                    <input style="margin-top: 20px;" name="edad" type="number" placeholder="..">
+                    <input style="margin-top: 20px;" name="raza"  type="text" placeholder="ingrese Raza">
+                    <input style="margin-top: 20px;" name="fecha"  type="date" placeholder="dd/mm/aaaa">
+                    <input style="margin-top: 20px;" name="hora" type="time" placeholder="--:-- ----">
+                    <input style="margin-top: 20px;" name="amo"  type="search" placeholder="ingrese nombre..">
+                    <button class="boton" style="margin-top: 20px;"> Validar cita</button>
+               </form>
+            </section>
+        </article>
+        <article class="busqueda">
+            <nav class="nav"> 
+                <img class="perronav" src="./imagenes/800_imagen.jpg">
+              <nav class="barrac">
+                <form action="busqueda.php" method="post">
+                    <div class="TEXTO2">
+                        <h1>CONSULTA TUS DATOS DE AGENDA</h1>
+                    </div>
+                    <input type="search" name="code" class="busquedabarra" placeholder="Ingrese identificación">
+                    <input type="submit" class="buscar" value="Buscar">
+               </form> 
+            </nav>
+                 
+           </nav>
+           
+        </article>
+    </main>
+    <footer>
+        <div>
+          <h6 style="margin-top: 10px;">contactenos</h6> 
+          <h6 style="margin-top: -18px;">Linea gratuita 018000-00001</h6>
+          <h6 style="margin-top: -18px;">Correo: preguntas@caninosyfelinos.com</h6> 
+          
+        </div>
+    </footer>
+</body>
+</html>

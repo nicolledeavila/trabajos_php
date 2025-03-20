@@ -1,0 +1,552 @@
+id:126268552
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2021-12-13
+hora:13:16:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:1234567890
+mascota:mimi
+edad:2
+raza:chiguagua
+fecha:2011-11-11
+hora:17:13:00
+amo:merly
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:123
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2007-05-12
+hora:12:25:00
+amo:marcos
+--------------------------
+code:1234567890
+mascota:mimi
+edad:2
+raza:chiguagua
+fecha:2011-11-11
+hora:17:13:00
+amo:merly
+--------------------------
+code:1234567890
+mascota:mimi
+edad:2
+raza:chiguagua
+fecha:2011-11-11
+hora:17:13:00
+amo:merly
+--------------------------
+Código: 123
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2007-05-12
+Hora: 12:25:00
+Amo: marcos
+--------------------------
+Código: 123
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2007-05-12
+Hora: 12:25:00
+Amo: marcos
+--------------------------
+Código: 123
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2007-05-12
+Hora: 12:25:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: mimi
+Edad: 2
+Raza: chiguagua
+Fecha: 2011-11-11
+Hora: 17:13:00
+Amo: merly
+--------------------------
+Código: 1234567890
+Mascota: mimi
+Edad: 2
+Raza: chiguagua
+Fecha: 2011-11-11
+Hora: 17:13:00
+Amo: merly
+--------------------------
+Código: 1235457622
+Mascota: mimi
+Edad: 52
+Raza: chiguagua
+Fecha: 2012-05-05
+Hora: 17:12:00
+Amo: mirtu
+--------------------------
+Código: 123
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2007-05-12
+Hora: 12:25:00
+Amo: marcos
+--------------------------
+Código: 123
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2007-05-12
+Hora: 12:25:00
+Amo: marcos
+--------------------------
+Código: 123
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2007-05-12
+Hora: 12:25:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: mimi
+Edad: 2
+Raza: chiguagua
+Fecha: 2011-11-11
+Hora: 17:13:00
+Amo: merly
+--------------------------
+Código: 1234567890
+Mascota: mimi
+Edad: 2
+Raza: chiguagua
+Fecha: 2011-11-11
+Hora: 17:13:00
+Amo: merly
+--------------------------
+Código: 1235457622
+Mascota: mimi
+Edad: 52
+Raza: chiguagua
+Fecha: 2012-05-05
+Hora: 17:12:00
+Amo: mirtu
+--------------------------
+Código: 1235457622
+Mascota: mimi
+Edad: 52
+Raza: chiguagua
+Fecha: 2012-05-05
+Hora: 17:12:00
+Amo: mirtu
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-03-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-02-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-02-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-02-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-02-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: fido
+Edad: 2
+Raza: golden retrever
+Fecha: 2025-02-11
+Hora: 14:22:00
+Amo: marcos
+--------------------------
+Código: 1234567890
+Mascota: 
+Edad: 0
+Raza: 
+Fecha: 2025-03-17
+Hora: 00:00:00
+Amo: 
+--------------------------
+code: 1234567890
+mascota:fido
+edad:2
+raza:golden retrever
+fecha:2025-02-11
+hora:14:22:00
+amo:marcos
+--------------------------
+code: 0
+mascota:pipe
+edad:5
+raza:pitbull
+fecha:2007-03-11
+hora:23:02:00
+amo:marylin
+--------------------------
+code: 0
+mascota:pipe
+edad:5
+raza:pitbull
+fecha:2007-03-11
+hora:23:02:00
+amo:marylin
+--------------------------
+code: 1234567890
+mascota:koki
+edad:1
+raza:golden retrever
+fecha:2025-03-02
+hora:23:02:00
+amo:marcos
+--------------------------
